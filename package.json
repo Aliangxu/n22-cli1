@@ -1,0 +1,29 @@
+{
+  "name": "@n22/cli",
+  "version": "0.0.1",
+  "description": "local service for n22-cli projects",
+  "main": "lib/Service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "n22": "bin/n22-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aliangxu/n22-cli1.git"
+  },
+  "author": "aliang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aliangxu/n22-cli1/issues"
+  },
+  "homepage": "https://github.com/Aliangxu/n22-cli1#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.1.0",
+    "fs-extra": "^9.0.1",
+    "inquirer": "^7.3.3",
+    "minimist": "^1.2.5"
+  }
+}
