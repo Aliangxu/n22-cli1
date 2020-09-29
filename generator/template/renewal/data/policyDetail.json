@@ -1,0 +1,65 @@
+{
+    "allBnfInfoList": [
+        {
+            "allBnfBirthday": "1972-08-08",
+            "allBnfDetailAddress": "",
+            "allBnfIDNo": "120221197208080540",
+            "allBnfIDType": "11",
+            "allBnfMobile": "",
+            "allBnfName": "李香君",
+            "allBnfSex": "1",
+            "allCustomerName": "李新乐",
+            "allIDExpDate": "",
+            "allIDStartDate": ""
+        }
+    ],
+    "appntInfo": {
+        "appntBirthday": "1972-08-08",
+        "appntIDExpDate": "",
+        "appntIDNo": "120221197208080540",
+        "appntIDType": "11",
+        "appntMobile": "",
+        "appntName": "李香君",
+        "appntPostalAddress": "",
+        "appntSex": "1"
+    },
+    "contInfo": {
+        "boanStarDate": "",
+        "contNo": "000059904",
+        "loanEndDate": "",
+        "loanMoney": "0.00",
+        "loanRate": "0.0485",
+        "loanRepayMoney": "0.00",
+        "payPremEndDate": "",
+        "payPremMoney": "0.00",
+        "payPremRepayMoney": "0.00",
+        "payPremStrDate": "",
+        "payToDate": "2018-02-13"
+    },
+    "insuInfoList": [
+        {
+            "insuBirthday": "1997-05-21",
+            "insuIDExpDate": "",
+            "insuIDNo": "000000000000000000",
+            "insuIDType": "28",
+            "insuMobile": "",
+            "insuName": "李新乐",
+            "insuPostalAddress": "",
+            "insuSex": "0",
+            "relationToAppnt": "04"
+        }
+    ],
+    "polInfoList": [
+        {
+            "amnt": "30000.0",
+            "cValiDate": "2004-02-13",
+            "endDate": "2029-02-13",
+            "insuName": "李新乐",
+            "payIntv": "12",
+            "payYears": "20",
+            "polState": "1",
+            "prem": "1275.0",
+            "riskName": "光大永明明日无忧少儿重大疾病保险"
+        }
+    ]
+}

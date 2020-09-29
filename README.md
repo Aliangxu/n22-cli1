@@ -3,7 +3,10 @@
 # 安装
 
 全局安装 cli
+
+```
 npm install -g @n22/cli
+```
 
 # 使用模版初始化项目
 
@@ -22,11 +25,12 @@ n22 create <你的项目名称> <你需要的模版>
 
 - 1、`client-app-simple-template`移动端
 - 2、`client-simple-template`PC 管理平台
-  注：模板需要开通账号权限
+
+注：模板需要开通账号权限
 
 # 进入项目
 
-cd 你的项目名称
+cd <你的项目名称>
 
 # 安装依赖
 
@@ -34,4 +38,8 @@ npm install
 
 # 运行
 
-npm run dev
+npm run dev -m-<模块名称>
+
+```
+eg：npm run dev -m-demo
+```
