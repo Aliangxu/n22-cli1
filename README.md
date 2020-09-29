@@ -22,6 +22,7 @@ n22 create <你的项目名称> <你需要的模版>
 
 - 1、`client-app-simple-template`移动端
 - 2、`client-simple-template`PC 管理平台
+  注：模板需要开通账号权限
 
 # 进入项目
 
