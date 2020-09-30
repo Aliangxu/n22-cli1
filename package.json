@@ -1,6 +1,6 @@
 {
   "name": "@n22/cli",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "local service for n22-cli projects",
   "main": "lib/Service.js",
   "scripts": {
